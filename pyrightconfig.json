@@ -1,0 +1,9 @@
+{
+  "include": [
+    "acme_project"
+  ],
+  "extraPaths": [
+    "acme_project"
+  ],
+  "reportAttributeAccessIssue": "none"
+}
